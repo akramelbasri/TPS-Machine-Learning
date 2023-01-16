@@ -26,7 +26,8 @@ Second, Unsupervised Learning like:
 
 Brief, All this TPS as far as implementing examples of each type are concerned.
 
-### We also share examples of NLP implementation (natural language processing)
-### other fields....
+### We also share examples of NLP implementation : 
+## Natural Language Processing.
+## The Implementation of Descent Gradient Algorithm for assigning best model parametrs...
 
-
+Others...
